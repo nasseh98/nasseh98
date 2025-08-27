@@ -11,7 +11,7 @@ Passionate about **scalable solutions**, **API-driven architectures**, and creat
 - 🔭 Currently working on: **Cross-platform mobile apps & cloud migration projects**
 - 🌱 Learning: **Advanced Cloud DevOps (Docker, CI/CD)**
 - 👯 Looking to collaborate on: **Open-source mobile & full-stack projects**
-- ⚡ Fun fact: **I love turning business ideas into functional apps!**
+
 
 ---
 
@@ -51,15 +51,6 @@ Passionate about **scalable solutions**, **API-driven architectures**, and creat
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Connect With Me
 <p>
 <a href="https://www.linkedin.com/in/manasemuturi" target="_blank">
@@ -68,9 +59,7 @@ Passionate about **scalable solutions**, **API-driven architectures**, and creat
 <a href="mailto:manasemuturinjeru@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://your-portfolio-link.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
-</a>
+
 </p>
 
 
