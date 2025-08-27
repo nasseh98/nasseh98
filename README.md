@@ -1,9 +1,11 @@
-## Hi there 👋
 
-<!--
-**nasseh98/nasseh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Manase 👋
+I'm a **Full-Stack & Mobile Developer** specializing in **Flutter, Kotlin, and Cloud Solutions**. Passionate about building scalable web and mobile applications that improve user experience and business productivity.
+
 
 Here are some ideas to get you started:
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
