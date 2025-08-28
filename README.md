@@ -41,14 +41,19 @@ Passionate about **scalable solutions**, **API-driven architectures**, and creat
   *QR-based restaurant ordering system with real-time order updates.*  
   **Tech:** Django, Flutter, PostgreSQL, Nextcloud  
 
-- [**Liquor Lux**](https://github.com/yourusername/liquorlux)  
+- [**Liquor Lux**]  
   *E-commerce liquor shop website with cart & checkout.*  
   **Tech:** Django, HTML, CSS, JavaScript  
 
-- [**Cloud Migration for NGOs**](https://github.com/yourusername/cloud-migration)  
+- [**Cloud Migration for NGOs**]
   *Automated workflow digitization and cloud setup using Nextcloud.*  
   **Tech:** Nextcloud, Zoho, Docker  
 
+---
+### 🚀 Working On
+- [**QTable**]
+  *QR-based restaurant ordering system with real-time order updates.*  
+  **Tech:** Django, Flutter, PostgreSQL, Nextcloud 
 ---
 
 ### 📫 Connect With Me
