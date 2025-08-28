@@ -37,10 +37,7 @@ Passionate about **scalable solutions**, **API-driven architectures**, and creat
 ---
 
 ### 🚀 Featured Projects
-- [**QTable**](https://github.com/yourusername/qtable)  
-  *QR-based restaurant ordering system with real-time order updates.*  
-  **Tech:** Django, Flutter, PostgreSQL, Nextcloud  
-
+  
 - [**Liquor Lux**]  
   *E-commerce liquor shop website with cart & checkout.*  
   **Tech:** Django, HTML, CSS, JavaScript  
